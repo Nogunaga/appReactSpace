@@ -11,7 +11,8 @@ SpaceApp es una aplicación React.js diseñada para proporcionar a los usuarios 
 - **Imágenes Populares**: Una sección que muestra imágenes populares.
 
 ## Muestra del proyecto
-![alt text](<Captura de pantalla 2024-12-28 031503.png>)
+![Captura de pantalla 2024-12-28 031503](https://github.com/user-attachments/assets/46652ab7-4732-4997-b9e6-964477ff86d1)
+
 ### Header
 - **Logo**: Muestra el logo de SpaceApp.
 - **Barra de Búsqueda**: Permite a los usuarios buscar fotos específicas.
