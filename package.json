@@ -1,6 +1,7 @@
 {
   "name": "spaceapp",
   "private": true,
+  "homepage": "https://Nogunaga.github.io/appReactSpace",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
